@@ -1,5 +1,5 @@
 # IDE configuration folders
-.vsk
+.vs
 .vscode
 .idea
 
@@ -12,5 +12,5 @@ __pycache__
 *.py[cod]
 
 # Assignment
+Archives BTC 2022
 *.zip
-setup.sh
