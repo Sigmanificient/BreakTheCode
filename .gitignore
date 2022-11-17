@@ -10,7 +10,3 @@ venv
 # Compiled files
 __pycache__
 *.py[cod]
-
-# Assignment
-Archives BTC 2022
-*.zip
