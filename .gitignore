@@ -1,0 +1,15 @@
+# IDE configuration folders
+.vsk
+.vscode
+.idea
+
+# Python env
+.env
+venv
+
+# Compiled files
+__pycache__
+*.py[cod]
+
+# Assignment
+*.zip
